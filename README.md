@@ -9,14 +9,14 @@ Author: Enea Fiore
 The repository includes PDF files with all supplementary materials and robustness checks discussed in the main article (refered as Online Appendix).
 
 ## Repository Content
-- `Appendix 1.pdf` — Lebanese political parties (included in the analyses)
-- `Appendix 2.pdf` — Descriptive Statistics
-- `Appendix 3.pdf` — Party identification over time
-- `Appendix 4.pdf` — Lebanon’s protest events plots (source: ACLED)
-- `Appendix 5.pdf` — Predictors of protest participation and party identification (log-odds)
-- `Appendix 6.pdf` — Reliability test on the scale “Trust in Institutions”
-- `Appendix 7.pdf` — Robustness Check: Wald Test
-- `Appendix 8.pdf` — Robustness Check: Multiple Imputation (log-odds)
+- `Online Appendix 1.pdf` — Lebanese political parties (included in the analyses)
+- `Online Appendix 2.pdf` — Descriptive Statistics
+- `Online Appendix 3.pdf` — Party identification over time
+- `Online Appendix 4.pdf` — Lebanon’s protest events plots (source: ACLED)
+- `Online Appendix 5.pdf` — Predictors of protest participation and party identification (log-odds)
+- `Online Appendix 6.pdf` — Reliability test on the scale “Trust in Institutions”
+- `Online Appendix 7.pdf` — Robustness Check: Wald Test
+- `Online Appendix 8.pdf` — Robustness Check: Multiple Imputation (log-odds)
 
 ## Usage
 The PDFs can be freely consulted and downloaded.
