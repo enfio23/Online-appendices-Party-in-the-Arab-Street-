@@ -1,27 +1,22 @@
-# Supplementary Material – Robustness Checks
+# Supplementary Material
 
 ## Description
 This repository contains supplementary material for the paper:
 
 **"Party in the Arab Street: Dynamics of Partisan Engagement in Lebanon’s October 17 Revolution"**  
-Enea Fiore 
+Author: Enea Fiore
 
-The repository includes PDF files presenting the results of all robustness checks discussed in the main article.
+The repository includes PDF files with all supplementary materials and robustness checks discussed in the main article (refered as Online Appendix).
 
 ## Repository Content
-- `Appendix 1.pdf` — Description
-- `Appendix 2.pdf` — Description
-- `Appendix 3.pdf` — Description
-- `Appendix 4.pdf` — Description
-- `Appendix 5.pdf` — Description
-- `Appendix 6.pdf` — Description
-- `Appendix 7.pdf` — Description
-- `Appendix 8.pdf` — Description
+- `Appendix 1.pdf` — Lebanese political parties (included in the analyses)
+- `Appendix 2.pdf` — Descriptive Statistics
+- `Appendix 3.pdf` — Party identification over time
+- `Appendix 4.pdf` — Lebanon’s protest events plots (source: ACLED)
+- `Appendix 5.pdf` — Predictors of protest participation and party identification (log-odds)
+- `Appendix 6.pdf` — Reliability test on the scale “Trust in Institutions”
+- `Appendix 7.pdf` — Robustness Check: Wald Test
+- `Appendix 8.pdf` — Robustness Check: Multiple Imputation (log-odds)
 
 ## Usage
-The PDFs can be freely consulted and downloaded. Each document corresponds to a specific robustness check referenced in the paper.
-
-## Citation
-If you use or refer to these materials, please cite the original article:
-
-> Autore1, Autore2, ... (Anno). Titolo del Paper. Journal, vol(issue), pages. DOI
+The PDFs can be freely consulted and downloaded.
